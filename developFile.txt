@@ -1,2 +1,2 @@
-file created in branch develop edited in master
+file created in branch develop edited in master and develop
 
